@@ -27,5 +27,5 @@ pip install matplotlib
 Run the project:
 
 ```bash
-python surus.py
+python surus_analiz.py
 ```
